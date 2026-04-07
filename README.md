@@ -6,6 +6,6 @@ for AIML 2013: Introduction to Computer Vision.
 
 ## Contents
 - Week 1: Edge Detection & Blurring Kernels
-- (more to come each week)
+- Week 2: Combined Challenge: How Machines Read
 # AIML2013-cv
 Labs and projects for AIML 2013: Introduction to Computer Vision
